@@ -58,7 +58,6 @@ $parsarb[] = "tp1";
 $parsarb[] = "gram";
 $parsarb[] = "qtz";
 $parsarb[] = "epy";
-*/
 $parsarb[] = "pkb";
 $parsarb[] = "m1";
 $parsarb[] = "krak";
@@ -89,7 +88,7 @@ $parsarb[] = "mavro";
 $parsarb[] = "tag";
 $parsarb[] = "crm";
 $parsarb[] = "lunyr";
- 
+ */
 
 
 
